@@ -4,7 +4,7 @@
 
 Built for the kind of work shown on the channel: AI that produces real, distinctive craft instead of the same gradient-hero slop every model defaults to. Point Claude Code at it and ship a page that doesn't look AI-made.
 
-**Skill name:** `nelson-ui` &nbsp;·&nbsp; **Version:** 2.5.0 &nbsp;·&nbsp; **License:** MIT &nbsp;·&nbsp; **By:** [@ethannelson](https://youtube.com/@ethannelson)
+**Skill name:** `nelson-ui` &nbsp;·&nbsp; **Version:** 2.5.0 &nbsp;·&nbsp; **By:** [@ethannelson](https://youtube.com/@ethannelson)
 
 ---
 
