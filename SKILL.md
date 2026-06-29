@@ -10,7 +10,7 @@ argument-hint: "[description OR existing site URL/screenshot] [--type any_page_t
 
 # Nelson UI — Cohesive Web-Page Designer
 
-_The design skill from the Ethan Nelson AI channel (@ethannelson). Base engine forked from `perfect-ui` by dris1153, MIT._
+_The design skill from the Ethan Nelson AI channel (@ethannelson)._
 
 Design and ship web pages where every visual element — icons, illustrations, 3D, copy, layout, motion — shares one coherent vibe. Built to **avoid AI slop** through curated direction, custom icons (zero emoji, zero icon libraries), and bespoke visuals. Landing pages and portfolios get rich type-specific treatment; every other page type uses a generic anatomy with the same universal craft toolkit.
 

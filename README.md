@@ -6,8 +6,6 @@ Built for the kind of work shown on the channel: AI that produces real, distinct
 
 **Skill name:** `nelson-ui` &nbsp;·&nbsp; **Version:** 2.5.0 &nbsp;·&nbsp; **License:** MIT &nbsp;·&nbsp; **By:** [@ethannelson](https://youtube.com/@ethannelson)
 
-> **Credit:** This repo is a rebrand/fork of [`perfect-ui`](https://github.com/dris1153/perfect-ui) by **dris1153** (MIT). The anti-slop design engine is theirs; the branding and channel framing are Ethan's.
-
 ---
 
 ## What it does
@@ -489,7 +487,6 @@ Validate after changes: `python ~/.claude/skills/skill-creator/scripts/quick_val
 - v2.5.0 Pre-emit `<design_plan>` block (10-field verification gate) adapted from gpt-taste's pre-emit `<design_plan>` schema
 
 Author: Ethan Nelson ([@ethannelson](https://youtube.com/@ethannelson))
-Base engine: [`perfect-ui`](https://github.com/dris1153/perfect-ui) by dris1153 (MIT)
 
 ---
 
