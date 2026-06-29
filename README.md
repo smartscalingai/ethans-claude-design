@@ -1,12 +1,12 @@
-# Nelson UI
+# Ethan's Claude Design Repo
 
-> The design skill from the **[Ethan Nelson](https://youtube.com/@ethannelson)** AI channel — a Claude Code skill that designs and ships **landing pages** and **portfolios** that look human-crafted, not AI-generated.
+> The design skill from the **[Ethan Nelson](https://youtube.com/@ethannelson)** AI channel — a Claude Code skill (`nelson-ui`) that designs and ships **landing pages** and **portfolios** that look human-crafted, not AI-generated.
 
 Built for the kind of work shown on the channel: AI that produces real, distinctive craft instead of the same gradient-hero slop every model defaults to. Point Claude Code at it and ship a page that doesn't look AI-made.
 
 **Skill name:** `nelson-ui` &nbsp;·&nbsp; **Version:** 2.5.0 &nbsp;·&nbsp; **License:** MIT &nbsp;·&nbsp; **By:** [@ethannelson](https://youtube.com/@ethannelson)
 
-> **Credit:** Nelson UI is a rebrand/fork of [`perfect-ui`](https://github.com/dris1153/perfect-ui) by **dris1153** (MIT). The anti-slop design engine is theirs; the branding and channel framing are Ethan's.
+> **Credit:** This repo is a rebrand/fork of [`perfect-ui`](https://github.com/dris1153/perfect-ui) by **dris1153** (MIT). The anti-slop design engine is theirs; the branding and channel framing are Ethan's.
 
 ---
 
